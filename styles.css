@@ -1,0 +1,9 @@
+#search {
+    background-color: red;
+}
+
+h1 {
+    background-color: #1a70e0;
+    display: flex;
+    justify-content: center;
+}
